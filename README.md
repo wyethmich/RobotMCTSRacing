@@ -6,9 +6,9 @@ Lantao Liu - lantao@iu.edu
 
 Project Collaborators: 
 Wyeth Michaelsen - wyemicha@iu.edu
-Michael Mitsch - 
-Graham Gleason
+Michael Mitsch - mfmitsch@iu.edu
+Graham Gleason - gragleas@iu.edu
 
-Using Monte Carlo Tree Search, created a vehicle that autonomous travels around a track.
-To perform simulation, simply pull/download repo and run command "python3 drive.py". 
+Using Monte Carlo Tree Search, created a vehicle that autonomously travels around a track.
+To perform simulation, simply pull/download repo and run command "python3 drive.py" in terminal. 
 
